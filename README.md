@@ -22,7 +22,7 @@ The high-quality data generated from this nationwide study will lead to patient 
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU056_01: ](https://github.com/BHFDSC/CCU056_01)
+* [CCU056_01: Surgical and transcatheter aortic valve interventions for aortic stenosis in England: sociodemographic variations in treatment trends and outcome over 20 years](https://github.com/BHFDSC/CCU056_01)
 
 ## Project approval
 
